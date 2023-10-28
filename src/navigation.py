@@ -20,7 +20,7 @@ origin='13.0309553,77.5648559396817'
 broker="192.168.0.5"
 #define callback
 endpoint = 'https://maps.googleapis.com/maps/api/directions/json?'
-api_key = 'AIzaSyBXVnSEhGjmxb1vSyD8ywbjAPjqIHDIEOs'
+api_key = ''
 import RPi.GPIO as GPIO
     #origin = raw_input('Where are you?: ').replace(' ','+')
 
