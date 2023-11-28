@@ -1,4 +1,4 @@
-# IoT-Based Smart Cane for Visually Challenged - Readme
+# IoT-Based Smart Cane for Visually Challenged
 
 ## Introduction
 The IoT-Based Smart Cane is a device designed to assist visually challenged individuals in navigating their surroundings safely and independently. This smart cane is equipped with various sensors and connectivity features to provide real-time information and alerts to the user, enhancing their mobility and safety.
